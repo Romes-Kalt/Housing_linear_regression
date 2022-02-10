@@ -1,0 +1,16 @@
+ 
+Adjusted Dataset contains 90.16 % of original data points (19471 out of 21597).
+
+Error Metrics Test Set:
+         MSE = 22696006120.6043
+         MAE = 101474.1565
+          R² = 0.7204
+ Adjusted R² = 0.7198
+
+  - - - - - - - -
+
+Error Metrics Train Set:
+         MSE = 22039673383.8673
+         MAE = 99463.4764
+          R² = 0.718
+ Adjusted R² = 0.7177
